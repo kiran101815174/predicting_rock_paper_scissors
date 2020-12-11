@@ -7,3 +7,36 @@ Note that all of this data is posed against a white background.
 
 Each image is 300×300 pixels in 24-bit color
 http://www.laurencemoroney.com/rock-paper-scissors-dataset/
+the data set is too big to upload here so i will provide the link to download data set
+training_data 
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
+test_data
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
